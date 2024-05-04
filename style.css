@@ -1,0 +1,21 @@
+button
+{
+    background-color: rgb(90, 183, 2);
+    padding: 1rem;
+    color: rgb(185, 131, 31);
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+body
+{
+    background-color: rgb(203, 158, 103);
+    padding: 1rem;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+h2
+{
+    background-color: rgb(99, 170, 146);
+}
